@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Haruki here 👋
 
 <!--
 **harukikozo54645423/harukikozo54645423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
